@@ -23,3 +23,4 @@
   <a href = "mailto:rogeharaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+![rogeh21's Stats](https://github-readme-stats.vercel.app/api?username=rogeh21&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
